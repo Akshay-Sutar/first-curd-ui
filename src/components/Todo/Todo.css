@@ -1,0 +1,12 @@
+.todo {
+  padding: 1rem;
+  margin: 1px;
+}
+
+.todo-pending {
+  border: 1px solid red;
+}
+
+.todo-completed {
+  border: 1px solid green;
+}
