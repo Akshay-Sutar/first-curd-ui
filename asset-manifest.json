@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/first-curd-ui/static/css/main.9678ab54.chunk.css",
-    "main.js": "/first-curd-ui/static/js/main.7ae5ab61.chunk.js",
-    "main.js.map": "/first-curd-ui/static/js/main.7ae5ab61.chunk.js.map",
+    "main.js": "/first-curd-ui/static/js/main.2a9cb862.chunk.js",
+    "main.js.map": "/first-curd-ui/static/js/main.2a9cb862.chunk.js.map",
     "runtime-main.js": "/first-curd-ui/static/js/runtime-main.9d1cb2d4.js",
     "runtime-main.js.map": "/first-curd-ui/static/js/runtime-main.9d1cb2d4.js.map",
     "static/js/2.556dec78.chunk.js": "/first-curd-ui/static/js/2.556dec78.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.9d1cb2d4.js",
     "static/js/2.556dec78.chunk.js",
     "static/css/main.9678ab54.chunk.css",
-    "static/js/main.7ae5ab61.chunk.js"
+    "static/js/main.2a9cb862.chunk.js"
   ]
 }
