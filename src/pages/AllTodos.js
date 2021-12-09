@@ -7,6 +7,7 @@ const AllTodos = (props) => {
   //const [showList, setShowList] = useState(true);
 
   const fetchTodoList = () => {
+    console.log("in fetchTodoList");
     fetch("http://localhost:4000/api/v1/todo")
       .then((res) => res.json())
       .then((parsedResponse) => {
@@ -16,6 +17,7 @@ const AllTodos = (props) => {
   };
 
   useState(() => {
+    console.log("in use state");
     fetchTodoList();
   }, []);
 
